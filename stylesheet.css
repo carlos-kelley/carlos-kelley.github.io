@@ -1,3 +1,5 @@
+font-family: 'Lato', sans-serif;
+
 #container {
 	margin-top: 20px;
 	margin-left: 200px;
@@ -6,7 +8,6 @@
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color: #C4CECD;
 
 	text-align: left;
 }
@@ -16,7 +17,8 @@
 }
 
 h1 {
-	font-size: 64px;
+	font-family: Lato
+    font-size: 64px;
 	margin-bottom: -25px;
 }
 
