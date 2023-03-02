@@ -1,3 +1,3 @@
 # Carlos Kelley's resume
 
-carlos-kelley.github.io
+[View it here](carlos-kelley.github.io)
